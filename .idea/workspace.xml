@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95022f6a-c457-4c29-82a3-03f101b1f3de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MainApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accounts/AccountManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accounts/AccountManage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accounts/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accounts/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/books/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/books/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/books/BooksManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/books/BooksManage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/library/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/Library.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
