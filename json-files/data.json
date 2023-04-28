@@ -1,0 +1,51 @@
+{
+    "data": {
+        "accounts": [
+            {
+                "NIS": "22417856",
+                "name": "Jason Liem",
+                "id": "jk34l56",
+                "password": "liem24gtg"
+            },
+            {
+                "NIS": "22417453",
+                "name": "Carold Line",
+                "id": "crld12ngg",
+                "password": "crld112ng"
+            },
+            {
+                "NIS": "22417227",
+                "name": "Jessica Ferrey",
+                "id": "jsca45fry",
+                "password": "jsscafry24"
+            }
+        ],
+        "books": [
+            {
+                "title": "Harry Potter",
+                "author": "J.K. Rowling",
+                "publisher": "Blomsburry"
+            },
+            {
+                "title": "Laskar Pelangi",
+                "author": "Andrea Hirata",
+                "publisher": "Bentang Pustaka"
+            },
+            {
+                "title": "Tentang Kamu",
+                "author": "Tere Liye",
+                "publisher": "Republika"
+            },
+            {
+                "title": "Cinta Brontosaurus",
+                "author": "Raditya Dika",
+                "publisher": "Yayasan Mitra Netra"
+            },
+            {
+                "title": "Antologi Rasa",
+                "author": "Ika Natassa",
+                "publisher": "Gramedia"
+            }
+        ]
+    }
+}
